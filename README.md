@@ -14,7 +14,7 @@ Overview
 
 This repository contains the theoretical framework and computational pipeline for testing the Dynamical Subject Hypothesis.
 
-The central idea is that the conscious subject can be modeled as a stable reflexive attractor in neural state space.
+The central idea is that conscious states may correlate with the presence of a stable reflexive attractor in neural state space.
 
 From this hypothesis we derive an operational scalar metric (Σ) that can be estimated from neural time-series data such as EEG or MEG recordings.
 
@@ -26,7 +26,7 @@ Core Hypothesis
 
 H2 — Dynamical Subject Hypothesis
 
-The conscious subject corresponds to a stable reflexive attractor within the neural state space of a cognitive system.
+Conscious states are expected to correlate with the presence of a stable reflexive attractor within the neural state space of a cognitive system.
 
 If this is correct, conscious states should exhibit measurable dynamical properties that distinguish them from unconscious states.
 
@@ -61,7 +61,7 @@ The model generates the following falsifiable prediction:
 
 Σ_awake > Σ_REM > Σ_deep_sleep > Σ_anesthesia
 
-If this ordering is consistently observed across datasets, it would support the interpretation of conscious subjectivity as a dynamical attractor in neural activity.
+If this ordering is consistently observed across datasets, it would support the hypothesis that conscious states are associated with identifiable dynamical attractor structures in neural activity.
 
 ---
 
@@ -142,16 +142,16 @@ dynamical-subject-metric/
 
 README.md
 
-paper/
+Paper/
     dynamical_subject_metric.pdf
 
-simulation/
+Simulation/
     neural_dynamics_simulation.py
 
-analysis/
+Analysis/
     sigma_estimation_pipeline.py
 
-data/
+Data/
     dataset_sources.md
 
 ---
