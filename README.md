@@ -24,7 +24,7 @@ The goal of this project is to provide a replicable framework that allows indepe
 
 Core Hypothesis
 
-H2 — Dynamical Subject Hypothesis
+Dynamical Subject Hypothesis
 
 Conscious states are expected to correlate with the presence of a stable reflexive attractor within the neural state space of a cognitive system.
 
